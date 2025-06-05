@@ -5,5 +5,6 @@ public class Main {
     	
         System.out.println("A line of text");
         System.out.println("Another line of text");
+        System.out.println("A third line of text, as required to change the code");
     }
 }
